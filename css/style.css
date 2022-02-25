@@ -1,0 +1,509 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+  
+.benner-menu-sk{
+    background-image: url(../img/banner.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.logo{
+  width: 200px;
+  margin-top: 60px;
+  
+}
+.menu-ber{
+    color: white;
+    font-size: 20px;
+    text-transform: uppercase;
+    
+}
+.aro-kye{
+    color: white;
+    margin-top: 6px;
+    font-size: 20px;
+    margin-left: 60px;
+    margin-right: 60px;
+
+}
+.mine-menu{
+    margin-top: 60px;
+}
+
+.banner-main h2{
+    color: white;
+    background: #282828a6;
+    width: fit-content;
+    padding: 10px 48px;
+    font-size: 45px;
+    font-weight: 400;
+    margin-top: 100px;
+
+}
+.banner-main p{
+    width: 70%; 
+    color: white;
+    margin-top: 35px;
+    font-size: 22px;
+
+    
+}
+.banner-main span{
+    border: 1px solid white;
+    display: block;
+    width: 20px;
+    margin-top: 35px;
+}
+.banner-btn{
+    color: rgb(255, 255, 255);
+    border: 2px solid rgb(255, 255, 255);
+    padding: 18px 101px;
+    font-size: 18px;
+    margin-top: 54px;
+    margin-bottom: 200px;
+   
+}
+.banner-btn:hover{
+    color: rgb(255, 8, 0);
+    background-color: white;
+    font-weight: 600;
+   
+}
+
+/* welcome-section */
+
+.welcome{
+    background-color: #f6f6f6;
+
+}
+.welcome-mine h2{
+    text-transform: uppercase;
+    margin-top: 180px;
+    color: #333333;
+    font-size: 35px;
+    font-weight: 700;
+
+    
+
+}
+.welcome-mine span{
+    border: 1px solid rgb(0, 0, 0);
+    display: block;
+    width: 20px;
+    margin-top: 35px;
+    
+}
+.welcome-mine p{
+    margin-top: 55px;
+    margin-bottom: 85px;
+    color: #a5a5a5a5;
+   
+}
+.welcome-mine img {
+    margin-bottom: -720px;
+    position: relative;
+    z-index: 9;
+    margin-left: -69px;
+    width: 928px;
+}
+
+
+
+
+/* title-sectuion
+--------------------- */
+.title-hear{
+    background-color: #28282e;
+
+
+ }
+.title-mine h2{
+    color: white;
+    margin-top: 130px;
+    font-weight: 700;
+    font-size: 40px;
+    text-transform: uppercase;
+
+}
+.title-mine span{
+    border: 1px solid white;
+    display: block;
+    width: 20px;
+    margin-top: 25px;
+}
+.title-mine p{
+    margin-top: 55px;
+    margin-bottom: 70px;
+    color: #a5a5a5a5;
+    
+}
+.title-mine img{
+    margin-top: 240px;
+    margin-left: 80px;
+
+}
+.title-btn{
+    color: white;
+    border: 1px solid white;
+    text-transform:uppercase;
+    padding: 18px 36px;
+    margin-bottom: 144px;
+
+}
+.title-btn:hover{
+    color: rgb(255, 8, 0);
+    background-color: white;
+    font-weight: 600;
+   
+}
+/* footer-section */
+
+.footer-s{
+    background: #ef4035;
+
+}
+
+.footer-text h3{
+    color: white;
+    
+    text-align: center;
+    font-size: 18px;
+    text-transform: capitalize;
+    padding: 24px 0px;
+}
+
+
+
+/* about-page */
+.about-menu-sk{
+    background-color: white;
+}
+.about-menu-ber{
+    color: rgb(22, 142, 255);
+    font-size: 20px;
+    text-transform: uppercase;
+    
+}
+.about-aro-kye{
+    color: rgb(0, 0, 0);
+    margin-top: 6px;
+    font-size: 20px;
+    margin-left: 60px;
+    margin-right: 60px;
+
+}
+.about-line{
+    border: 3px solid rgba(128, 128, 128, 0.589);
+    display: block;
+    width: 100%;
+}
+/* about-banner-section */
+.about-us-s h2{
+    font-size: 45px;
+    font-weight: 700;
+    text-transform: uppercase;
+    color: #333333;
+    margin-top: 60px;
+}
+
+.about-us-s p{
+    margin-top: 70px;
+    text-align: justify;
+    font-size: 12pt;
+    color: gray;
+}
+.about-text-l3{
+    margin-left: 45px;
+    margin-bottom: 216px;
+}
+.about-img{
+    margin-top: 60px;
+}
+
+/* contact-page--------
+-------------------- */
+.contact-s{
+    background-color: #ee4a3f
+}
+.logo-con{
+    
+}
+.gap-contect{
+   height: 50px;
+}
+.contact-img-text h2{
+    color: white;
+    font-size: 53px;
+    font-weight: 600;
+    margin-top: 60px;
+    text-transform: uppercase;
+
+}
+.contact-1{
+    margin-top: 45px;
+    width: 750px;
+}
+.contact-img-text p{
+    color: white;
+    font-size: 18px;
+    text-align: justify;
+    margin-top: 30px;
+}
+.contact-2{
+        margin-top: 111px;
+        width: 343px;
+}
+.frome-btn{
+    background: transparent;
+    border: none;
+    color: white;
+    font-size: 25px;
+    margin-top: 122px;
+    text-transform: capitalize;
+    font-family: 'Dancing Script', cursive;
+    font-weight: 800;
+    
+    
+}
+
+
+
+/* frome-section
+--------------------- */
+.frome-section{
+
+}
+.group-frome label{
+    color: white;
+    font-size: 20px;
+    margin-top: 10px;
+    margin-bottom: 15px;
+
+}
+.group-frome input{
+    width: 450px;
+    height: 60px;
+    background-color:#ff6258;
+    border: none;
+
+}
+.footer-text-contect{
+
+}
+
+
+/* responsive-web */
+@media (min-width:120px) and (max-width:575.98px){
+    .fa.fa-bars{
+        font-size: 25px;
+        color: white;
+        
+    }
+    .logo{
+        margin-top: 10px;
+    }
+    .aro-kye{
+        display: none;
+    }
+    .banner-main h2{
+        color: white;
+        background: #282828a6;
+        width: fit-content;
+        padding: 10px 48px;
+        font-size: 35px;
+        font-weight: 400;
+        margin-top: 100px;
+    
+    }
+    .banner-main p{
+        width: 100%; 
+        color: white;
+        margin-top: 35px;
+        font-size: 22px;
+        text-align: justify;
+    
+        
+    }
+    .banner-main span{
+        border: 1px solid white;
+        display: block;
+        width: 20px;
+        margin: 35px auto;
+        text-align: center;
+       
+        
+    }
+    .banner-btn{
+        color: white;
+        border: 2px solid white;
+        padding: 18px 101px;
+        font-size: 18px;
+        margin-top: 50px;
+        margin-bottom: 100px;
+        margin-left: 80px;
+       
+    }
+    .welcome-mine h2{
+        text-transform: uppercase;
+        margin-top: 60px;
+        color: #333333;
+        font-size: 35px;
+        font-weight: 700;
+    
+        
+    
+    }
+    .welcome-mine img {
+        margin-bottom: -44px;
+        position: relative;
+        z-index: 9;
+        margin-left: -10px;
+        width: 450px;
+    }
+       
+    .welcome-mine p{
+        margin-top: 55px;
+        margin-bottom: 60px;
+        color: #a5a5a5a5;
+        text-align: justify;
+       
+    }
+    .title-mine h2{
+        color: white;
+        margin-top: 80px;
+        font-weight: 700;
+        font-size: 40px;
+        text-transform: uppercase;
+    
+    }
+    .title-mine p{
+        margin-top: 55px;
+        margin-bottom: 70px;
+        color: #a5a5a5a5;
+        text-align: justify;
+        
+    }
+    .title-mine img{
+        margin-top: 40px;
+        margin-left: 0px;
+        margin-bottom: 40px;
+    
+    }
+    .title-btn{
+        color: white;
+        border: 1px solid white;
+        text-transform:uppercase;
+        padding: 18px 36px;
+        margin-bottom:40px;
+        margin-left: 120px;
+    
+    }
+    .title-mine span{
+        border: 1px solid white;
+        display: block;
+        width: 20px;
+        margin-top: 25px;
+        margin-left: 200px;
+    }
+    
+}
+@media (min-width:576px) and (max-width:767.98px){
+    .logo{
+        margin-top: 10px;
+    }
+    .banner-main h2{
+        color: white;
+        background: #282828a6;
+        width: fit-content;
+        padding: 10px 48px;
+        font-size: 35px;
+        font-weight: 400;
+        margin-top: 100px;
+    
+    }
+    .banner-main p{
+        width: 80%; 
+        color: white;
+        margin-top: 35px;
+        font-size: 22px;
+        text-align: justify;
+        
+    
+        
+    }
+    .banner-main span{
+        border: 1px solid white;
+        display: block;
+        width: 20px;
+        margin-left: 130px;
+        
+        text-align: center;
+       
+        
+    }
+    .welcome-mine h2{
+        text-transform: uppercase;
+        margin-top: 39px;
+        color: #333333;
+        font-size: 35px;
+        font-weight: 700;
+               
+    }
+    .welcome-mine span {
+        border: 1px solid rgb(0, 0, 0);
+        display: block;
+        width: 20px;
+        margin-top: 61px;
+    }
+    .welcome-mine p {
+        margin-top: 45px;
+        margin-bottom: 31px;
+        color: #a5a5a5a5;
+    }
+    .welcome-mine img {
+        margin-bottom: -53px;
+        position: relative;
+        z-index: 9;
+        margin-left: -25px;
+        width: 550px;
+    }
+    .title-mine img {
+        margin-top: -26px;
+        margin-left: -8px;
+        margin-bottom: 40px;
+    }
+    .fa.fa-bars{
+        font-size: 25px;
+        color: white;
+        
+    }
+    .aro-kye {
+        
+        display: none;
+    }
+    .menu-ber{
+        color: white;
+        font-size: 20px;
+        text-transform: uppercase;
+        margin-bottom: 20px;
+        
+    }
+    .title-mine span{
+        border: 1px solid white;
+        display: block;
+        width: 20px;
+        margin-top: 25px;
+        
+    }
+   
+
+}
+
+
+
+
+
+
+
+
